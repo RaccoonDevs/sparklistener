@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "piloto-arquitectura",
+  "private_key_id": "6624c0bfc224be03a1d5e431f024e337b0be19a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxGtihk95pTXNa\nAim/e1JvlhU/gxltx1UUd8znPGM0sSRzJSa86Poi+0iPevfbhfqumRnnjpg42UVO\nldNWI1x0i8tk/A36hds/+5g6bA/ANHfz2LTtRiR/bEEdAhrIX0VWT6rLkR4W2cod\nGR8vBRdFtcq6Pfs2Axq6WOdHpeE1Bo4xgzJWzXu4PSVC8VtSdi8yCoc+rIyeQp3K\nAGCzdcHDhEc7reIg7vfXZWMzKq8+QEu3CvJyzqyz/r7vo/F0H9FD1xQmtad9jeMo\nArw+xiusft41+hL+f34KE4UW+phv3FZltZxWamba7SfP0O6TiOrvNbUruYkOxM+v\nHmx89fspAgMBAAECggEADbLC4LR8Nm7cJjEWo43ZUXItUI1GUTxis0OU4KnGDpRI\n+nL8LQ5kEoKXGSnss9kIC6sh2swnr/X2K17hSr9PbmBFqhjox+DElY1TN+mVyksE\noCK508RiHEz2OFUqVycvSL6+uiIOTrwnqtp/k/Zz11t5Q7B5lrLkxVcNBHirE5u9\n2ISg8hAVw6otQoUAKU0crMOEInWJNoBewVOtSsjCUJ0T7uprrmPeiaLDLCBK7HZw\nSEYi5nVaXLydI3L/sSUwFQYKaW7I6IOP8gpKddcfm2+IRcBpuTzHIdJ+xxgUuihg\nWmAqsjvL9R9q+7QtDSayAinjApYCT6koFMvqmtEGNQKBgQD5R0utXyfAp6KD04cA\n0+t7norsVh1xyOyspy91t7n2ZeWvPbKbUQeiOXgZrQvFpD1mzb8FLjuozBdS19Q1\noCIYtl3jce0GMLBDm+cTyeGwhhFiQJdD1yM6zDoqphdyJ1Kq4v2HICOqP10CTGcL\naPelZBNM08vX2lN3no8FkrtFuwKBgQC14VrZHvzbczBgQEhuem/voW16yiw8hFmQ\nsMIjxqb7bQDLZ5DJOHe58ONl9ndxHRlUlo0rAMlQqn5U6K9nlOs5raM8wKRaBn2+\nxzw1DO1/ndxAjXdw4dfGREggbwacmZcHCOEjYhaMFAteX6ZAOhWuv5zEicYnTDTA\n3GP/5vciawKBgBB2TOEeL5nheDIMfhXn6N05EyOYbElfY4HjaJb1kypagFiaUnk/\nWKm18eCANQ7QUd3AKKVG8FmtYLzv0+vWr2nCYWDr3SNTg9BzM0dzRZxKvksmyNaK\nFqGDazP11AaN4j+2zddmn/RWSuYj9YojXHdnrH6eXg/bMzfrGLbdgdCRAoGAYQfH\noruAZEbQkRjaS24wV2QEdxRygxqMeb+C4vkwzkN5wAoRWPgyD1Wuyw+w6vx+Lf1f\ndIin3cwHN58nLJhq4Ut8IYYYaBq8bNH3kcnCzmlWPm36QZOKvLBi1kLFATiDNPKM\nwYarxrFO21sl42/Zb2+z37osp3xlTFqHUtdSEt8CgYA2h4OJo72SykHk8MEmeShA\n+6KCyU9YOA1J4LDurFx/ltn5VWHcDmc2mB39TiqZOvQ18Bz2xOTg8IFd3TzAEIcG\nZTPp2jxZCZyQbXWX2W44R4LQHNgv/GtjNGeyxHVwPhqS9R/S5FI/ACd70jH5ifod\nGk3zkoJLxfrj7CXcnkOMSw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-connector@piloto-arquitectura.iam.gserviceaccount.com",
+  "client_id": "107368720449728358054",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-connector%40piloto-arquitectura.iam.gserviceaccount.com"
+}
